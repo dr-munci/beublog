@@ -287,40 +287,21 @@ Rol: admin
 
 ## 📱 Ekran Görüntüleri
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 Ana Sayfa</h3>
-      <p align="center">Modern tasarım, kategori filtreleri, arama ve sıralama özellikleri</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📖 Yazı Detay</h3>
-      <p align="center">Zengin içerik görüntüleme, beğeni sistemi ve yazar bilgisi</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚙️ Admin Panel</h3>
-      <p align="center">Yazı moderasyonu, istatistikler ve içerik yönetimi</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👤 Profil</h3>
-      <p align="center">Kullanıcı yazıları, düzenleme ve profil ayarları</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">✍️ Yazı Oluştur</h3>
-      <p align="center">WYSIWYG editör, kapak görseli ve kategori seçimi</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌙 Karanlık Tema</h3>
-      <p align="center">Göz dostu karanlık mod desteği</p>
-    </td>
-  </tr>
-</table>
+### 🏠 Ana Sayfa
+![Ana Sayfa](https://placehold.co/800x450/6366f1/white?text=BEUBlog+Ana+Sayfa%0AKategori+Filtreleri+%7C+Arama+%7C+S%C4%B1ralama)
 
-> 📸 **Not:** Uygulamayı yerel olarak çalıştırarak tüm özellikleri deneyimleyebilirsiniz.
+### 🌙 Karanlık Tema
+![Karanlık Tema](https://placehold.co/800x450/1e293b/white?text=BEUBlog+Dark+Mode%0AG%C3%B6z+Dostu+Karanl%C4%B1k+Tema)
+
+### ✍️ Yazı Oluşturma
+![Yazı Oluştur](https://placehold.co/800x450/10b981/white?text=WYSIWYG+Edit%C3%B6r%0AZengin+Metin+Deste%C4%9Fi)
+
+### ⚙️ Admin Panel
+![Admin Panel](https://placehold.co/800x450/f59e0b/white?text=Admin+Panel%0AModerasyon+%7C+%C4%B0statistikler)
+
+---
+
+> 💡 **İpucu:** Uygulamayı `npm run dev` ile çalıştırarak tüm özellikleri canlı deneyimleyebilirsiniz!
 
 ---
 
