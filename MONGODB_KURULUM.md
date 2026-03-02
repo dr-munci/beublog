@@ -25,7 +25,7 @@ MongoDB Atlas, bulut tabanlı ücretsiz MongoDB veritabanı hizmetidir. Verileri
 2. **"Add New Database User"** tıklayın
 3. Authentication: **Password**
 4. Username: `beublog`
-5. Password: `BeUBlog2024!` (veya kendi şifreniz)
+5. Password: `GucluBirSifre123!` (kendi şifrenizi belirleyin)
 6. **Built-in Role:** "Read and write to any database"
 7. **"Add User"** tıklayın
 
@@ -52,7 +52,7 @@ mongodb+srv://beublog:<password>@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=
 `backend/.env` dosyasını açın ve MONGO_URI satırını güncelleyin:
 
 ```env
-MONGO_URI=mongodb+srv://beublog:BeUBlog2024!@cluster0.xxxxx.mongodb.net/beublog?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://beublog:SIFRENIZ@cluster0.xxxxx.mongodb.net/beublog?retryWrites=true&w=majority
 ```
 
 **Önemli:** 
