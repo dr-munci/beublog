@@ -13,7 +13,7 @@
 
 **Modern, full-stack blog platformu** | React + Node.js + MongoDB
 
-[Demo](#demo) • [Özellikler](#-özellikler) • [Kurulum](#-kurulum) • [API](#-api-endpoints) • [Ekran Görüntüleri](#-ekran-görüntüleri)
+[Özellikler](#-öne-çıkan-özellikler) • [Kurulum](#-kurulum) • [API](#-api-endpoints) • [Teknolojiler](#️-teknoloji-yığını)
 
 </div>
 
@@ -287,17 +287,40 @@ Rol: admin
 
 ## 📱 Ekran Görüntüleri
 
-### Ana Sayfa
-Modern tasarım, kategori filtreleri ve arama özelliği.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Ana Sayfa</h3>
+      <p align="center">Modern tasarım, kategori filtreleri, arama ve sıralama özellikleri</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📖 Yazı Detay</h3>
+      <p align="center">Zengin içerik görüntüleme, beğeni sistemi ve yazar bilgisi</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ Admin Panel</h3>
+      <p align="center">Yazı moderasyonu, istatistikler ve içerik yönetimi</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">👤 Profil</h3>
+      <p align="center">Kullanıcı yazıları, düzenleme ve profil ayarları</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">✍️ Yazı Oluştur</h3>
+      <p align="center">WYSIWYG editör, kapak görseli ve kategori seçimi</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌙 Karanlık Tema</h3>
+      <p align="center">Göz dostu karanlık mod desteği</p>
+    </td>
+  </tr>
+</table>
 
-### Yazı Detay
-Zengin içerik görüntüleme, beğeni ve yazar bilgisi.
-
-### Admin Panel
-Yazı moderasyonu ve istatistikler.
-
-### Profil
-Kullanıcı yazıları ve ayarlar.
+> 📸 **Not:** Uygulamayı yerel olarak çalıştırarak tüm özellikleri deneyimleyebilirsiniz.
 
 ---
 
