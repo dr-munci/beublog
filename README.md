@@ -285,24 +285,6 @@ Rol: admin
 
 ---
 
-## 📱 Ekran Görüntüleri
-
-### 🏠 Ana Sayfa
-![Ana Sayfa](https://placehold.co/800x450/6366f1/white?text=BEUBlog+Ana+Sayfa%0AKategori+Filtreleri+%7C+Arama+%7C+S%C4%B1ralama)
-
-### 🌙 Karanlık Tema
-![Karanlık Tema](https://placehold.co/800x450/1e293b/white?text=BEUBlog+Dark+Mode%0AG%C3%B6z+Dostu+Karanl%C4%B1k+Tema)
-
-### ✍️ Yazı Oluşturma
-![Yazı Oluştur](https://placehold.co/800x450/10b981/white?text=WYSIWYG+Edit%C3%B6r%0AZengin+Metin+Deste%C4%9Fi)
-
-### ⚙️ Admin Panel
-![Admin Panel](https://placehold.co/800x450/f59e0b/white?text=Admin+Panel%0AModerasyon+%7C+%C4%B0statistikler)
-
----
-
-> 💡 **İpucu:** Uygulamayı `npm run dev` ile çalıştırarak tüm özellikleri canlı deneyimleyebilirsiniz!
-
 ---
 
 ## 🤝 Katkıda Bulunma
