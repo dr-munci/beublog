@@ -91,13 +91,34 @@ npm install
 
 # .env dosyası oluşturun
 cp .env.example .env
-
-# .env dosyasını düzenleyin
-# MONGO_URI=mongodb+srv://...
-# JWT_SECRET=your-secret-key
 ```
 
-### 3️⃣ Frontend Kurulumu
+### 3️⃣ MongoDB Yapılandırması
+
+`.env` dosyasında 3 farklı MongoDB seçeneği kullanabilirsiniz:
+
+| Seçenek | MONGO_URI | Açıklama |
+|---------|-----------|----------|
+| **Yerel MongoDB** | `mongodb://localhost:27017/beublog` | Bilgisayarınızda MongoDB kurulu olmalı |
+| **MongoDB Atlas** | `mongodb+srv://user:pass@cluster.mongodb.net/beublog` | Ücretsiz bulut veritabanı ([Atlas](https://www.mongodb.com/atlas)) |
+| **In-Memory** | *(boş bırakın)* | Test için, sunucu kapanınca veriler silinir |
+
+**Örnek `.env` dosyası:**
+```env
+# Yerel MongoDB için:
+MONGO_URI=mongodb://localhost:27017/beublog
+
+# Veya MongoDB Atlas için:
+# MONGO_URI=mongodb+srv://kullanici:sifre@cluster0.xxxxx.mongodb.net/beublog
+
+# JWT Secret (değiştirin!)
+JWT_SECRET=your-super-secret-key
+
+# Port
+PORT=5000
+```
+
+### 4️⃣ Frontend Kurulumu
 
 ```bash
 cd frontend
